@@ -89,11 +89,11 @@ custom_proxy_group=落地2`select`.*`[]DIRECT
 custom_proxy_group=Relay3`relay`[]前置3`[]落地3
 custom_proxy_group=前置3`select`.*`[]DIRECT
 custom_proxy_group=落地3`select`.*`[]DIRECT
-custom_proxy_group=HK`select`港|HK|Hong Kong
-custom_proxy_group=JP`select`日((?!用).)+|东京|大阪|埼玉|JP|Japan
-custom_proxy_group=US`select`美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US|United States
-custom_proxy_group=TW`select`台|新北|彰化|TW|Taiwan
-custom_proxy_group=SG`select`新加坡|坡|狮城|SG|Singapore
+custom_proxy_group=HK`select`[]🔯 故障转移`[]♻️ 自动选择`港|HK|Hong Kong
+custom_proxy_group=JP`select``[]🔯 故障转移`[]♻️ 自动选择日((?!用).)+|东京|大阪|埼玉|JP|Japan
+custom_proxy_group=US`select``[]🔯 故障转移`[]♻️ 自动选择美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US|United States
+custom_proxy_group=TW`select``[]🔯 故障转移`[]♻️ 自动选择台|新北|彰化|TW|Taiwan
+custom_proxy_group=SG`select``[]🔯 故障转移`[]♻️ 自动选择新加坡|坡|狮城|SG|Singapore
 ;设置分组标志位
 
 enable_rule_generator=true
