@@ -6,7 +6,7 @@
 ;设置规则标志位
 ruleset=DIRECT,https://cdn.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/LocalAreaNetwork.list
 ruleset=DIRECT,https://cdn.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/UnBan.list
-ruleset=🕸️ ssh,https://cdn.jsdelivr.net/gh/yqdhm/clash@main/ssh.list
+ruleset=🕸️ ssh&3389,https://cdn.jsdelivr.net/gh/iovejieba/clash@main/ssh.list
 ruleset=📹 PrimeVideo,https://cdn.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/GoogleFCM.list
 ruleset=📹 PrimeVideo,https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Chromecast/Chromecast.list
 ruleset=📹 PrimeVideo,https://cdn.jsdelivr.net/gh/yqdhm/clash@main/plutotv.list
@@ -78,7 +78,7 @@ custom_proxy_group=🎮 游戏平台`select`[]🔯 故障转移`[]♻️ 自动�
 custom_proxy_group=📥 DMCA&PT`select`[]HK`[]SG`[]JP`[]US`[]TW`[]Relay1`[]Relay2`[]Relay3`.*`[]DIRECT
 custom_proxy_group=🌮 国内IP归属地`select`[]DIRECT`[]HK`[]SG`[]JP`[]US`[]TW`[]Relay1`[]Relay2`[]Relay3`.*
 custom_proxy_group=🎯 CN`select`[]DIRECT`[]HK`[]SG`[]JP`[]US`[]TW`[]Relay1`[]Relay2`[]Relay3`.*
-custom_proxy_group=🕸️ ssh`select`[]DIRECT`[]HK`[]SG`[]JP`[]US`[]TW`[]Relay1`[]Relay2`[]Relay3`.*
+custom_proxy_group=🕸️ ssh&3389`select`[]DIRECT`[]HK`[]SG`[]JP`[]US`[]TW`[]Relay1`[]Relay2`[]Relay3`.*
 custom_proxy_group=🐟 漏网之鱼`select`[]🔯 故障转移`[]♻️ 自动选择`[]HK`[]SG`[]JP`[]US`[]TW`[]Relay1`[]Relay2`[]Relay3`.*`[]DIRECT
 custom_proxy_group=Relay1`relay`[]前置1`[]落地1
 custom_proxy_group=前置1`select`.*`[]DIRECT
