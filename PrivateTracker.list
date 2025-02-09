@@ -1,12 +1,67 @@
 # NAME: PrivateTracker
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-10-04 02:13:11
-# DOMAIN: 126
+# UPDATED: 2025-02-09 21:01:11
+# DOMAIN: 181
 # DOMAIN-KEYWORD: 4
 # DOMAIN-SUFFIX: 123
 # IP-CIDR: 3
 # TOTAL: 256
+DOMAIN,agsvpt.trackers.work
+DOMAIN,www.agsvpt.com
+DOMAIN,6ahddutb1ucc3cp.ru
+DOMAIN,api.ipv4online.uk
+DOMAIN,bt.poletracker.org
+DOMAIN,bt1.xxxxbt.cc
+DOMAIN,bt2.080609.xyz
+DOMAIN,buny.uk
+DOMAIN,finbytes.org
+DOMAIN,fleira.no
+DOMAIN,highteahop.top
+DOMAIN,home.yxgz.club
+DOMAIN,ipv4announce.sktorrent.eu
+DOMAIN,isk.richardsw.club
+DOMAIN,ismaarino.com
+DOMAIN,leet-tracker.moe
+DOMAIN,ns-1.x-fins.com
+DOMAIN,retracker.spark-rostov.ru
+DOMAIN,seeders-paradise.org
+DOMAIN,servandroidkino.ru
+DOMAIN,share.hkg-fansub.info
+DOMAIN,shubt.net
+DOMAIN,t.jaekr.sh
+DOMAIN,sparkle.ghostchu-services.top
+DOMAIN,tr.abir.ga
+DOMAIN,tr.nyacat.pw
+DOMAIN,tr.zukizuki.org
+DOMAIN,tr3.ysagin.top
+DOMAIN,tracker.aburaya.live
+DOMAIN,tracker.bittor.pw
+DOMAIN,tracker.bjut.jp
+DOMAIN,tracker.bt-hash.com
+DOMAIN,tracker.bz
+DOMAIN,tracker.corpscorp.online
+DOMAIN,tracker.dmcomic.org
+DOMAIN,tracker.dump.cl
+DOMAIN,tracker.gigantino.net
+DOMAIN,tracker.ipv6tracker.org
+DOMAIN,tracker.leechshield.link
+DOMAIN,tracker.lintk.me
+DOMAIN,tracker.moeking.me
+DOMAIN,tracker.moxing.party
+DOMAIN,tracker.nanoha.org
+DOMAIN,tracker.ololosh.space
+DOMAIN,tracker.qu.ax
+DOMAIN,tracker.sbsub.com
+DOMAIN,tracker.vanitycore.co
+DOMAIN,tracker.xiaoduola.xyz
+DOMAIN,tracker.yume-hatsuyuki.moe
+DOMAIN,tracker810.xyz
+DOMAIN,www.genesis-sp.org
+DOMAIN,udp.tracker.projectk.org
+DOMAIN,www.torrentsnipe.info
+DOMAIN,0d.kebhana.mx
+DOMAIN,0123456789nonexistent.com
 DOMAIN,1337.abcvg.info
 DOMAIN,1c.premierzal.ru
 DOMAIN,aegir.sexy
@@ -87,6 +142,7 @@ DOMAIN,tracker.farted.net
 DOMAIN,tracker.filemail.com
 DOMAIN,tracker.files.fm
 DOMAIN,tracker.fnix.net
+DOMAIN,tracker.foreverpirates.co
 DOMAIN,tracker.gcrenwp.top
 DOMAIN,tracker.gmi.gd
 DOMAIN,tracker.ipfsscan.io
