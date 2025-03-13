@@ -2,7 +2,7 @@
 # AUTHOR: blackmatrix7
 # Modify:iovejieba
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-03-13 21:01:11
+# UPDATED: 2025-03-13 16:01:11
 DOMAIN,agsvpt.trackers.work
 DOMAIN,www.agsvpt.com
 DOMAIN,6ahddutb1ucc3cp.ru
@@ -129,7 +129,7 @@ DOMAIN,tracker.bt4g.com
 DOMAIN,tracker.ccp.ovh
 DOMAIN,tracker.cloudit.top
 DOMAIN,tracker.cyberia.is
-DOMAIN,tracker.darkness.services
+DOMAIN,tracker.darkness.servs
 DOMAIN,tracker.ddunlimited.net
 DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
@@ -180,9 +180,13 @@ DOMAIN,trackers.mlsub.net
 DOMAIN,tracker.carpt.net
 DOMAIN,tracker.rousipt.com
 DOMAIN,tracker.hdtime.org
+DOMAIN,tracker.icc2022.xyz
+DOMAIN,tracker1.icc2022.de
+DOMAIN,tracker2.icc2022.de
+DOMAIN,tracker3.icc2022.de
 DOMAIN,pt.btschool.club
 DOMAIN,tracker.totheglory.im
-DOMAIN,ttk2.nbaonlineservice.com
+DOMAIN,ttk2.nbaonlineserv.com
 DOMAIN,u4.trakx.crim.ist
 DOMAIN,u6.trakx.crim.ist
 DOMAIN,wepzone.net
@@ -194,7 +198,6 @@ DOMAIN,z.mercax.com
 DOMAIN-SUFFIX,m-team.io
 DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,czhch.com
-DOMAIN-SUFFIX,icc2022.de
 DOMAIN-SUFFIX,plab.site
 DOMAIN-SUFFIX,trackers.work
 DOMAIN-SUFFIX,1ptba.com
@@ -268,7 +271,7 @@ DOMAIN-SUFFIX,hhanclub.top
 DOMAIN-SUFFIX,hitpt.com
 DOMAIN-SUFFIX,hitpt.org
 DOMAIN-SUFFIX,hudbt.hust.edu.cn
-DOMAIN-SUFFIX,icetorrent.org
+DOMAIN-SUFFIX,torrent.org
 DOMAIN-SUFFIX,iptorrents.com
 DOMAIN-SUFFIX,j99.info
 DOMAIN-SUFFIX,joyhd.net
@@ -334,7 +337,6 @@ DOMAIN-KEYWORD,chdbits
 DOMAIN-KEYWORD,m-team
 DOMAIN-KEYWORD,torrent
 DOMAIN-KEYWORD,tracker
-DOMAIN-KEYWORD,icc2022
 DOMAIN-KEYWORD,agsvpt
 IP-CIDR,207.241.226.111/32,no-resolve
 IP-CIDR,207.241.231.226/32,no-resolve
