@@ -5,4 +5,5 @@ DOMAIN-SUFFIX,fsm.name
 # PT ICC2022 策略调整暂只能非墙访问前端
 DOMAIN,www.icc2022.com
 # jav missav
-DOMAIN-KEYWORD,missav
+DOMAIN-SUFFIX,missav.ai
+DOMAIN-SUFFIX,missav.ws
