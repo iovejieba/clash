@@ -4,6 +4,7 @@
 DOMAIN-SUFFIX,fsm.name
 # PT ICC2022 策略调整暂只能非墙访问前端
 DOMAIN,www.icc2022.com
+DOMAIN,www.torrentleech.org
 # jav missav
 DOMAIN-SUFFIX,missav.ai
 DOMAIN-SUFFIX,missav.ws
