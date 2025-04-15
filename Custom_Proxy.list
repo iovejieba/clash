@@ -12,3 +12,5 @@ DOMAIN-SUFFIX,missav.ws
 DOMAIN,www.ngkingyi.com
 # ACG
 DOMAIN,acg.rip
+# GITHUB RAW
+DOMAIN-SUFFIX,githubusercontent.com
