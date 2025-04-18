@@ -287,6 +287,10 @@ DOMAIN-KEYWORD,tokenpocket
 # > Gate
 DOMAIN-SUFFIX,gate.ac
 DOMAIN-SUFFIX,gate.io
+DOMAIN-SUFFIX,gateio.services
+DOMAIN-SUFFIX,gateimage.com
+DOMAIN-SUFFIX,gateimg.com
+DOMAIN-SUFFIX,gateweb3.cc
 
 # > Mexc
 DOMAIN-SUFFIX,mexc.com
