@@ -14,3 +14,5 @@ DOMAIN,www.ngkingyi.com
 DOMAIN,acg.rip
 # GITHUB RAW
 DOMAIN-SUFFIX,githubusercontent.com
+# CF DOCKER
+DOMAIN,production.cloudflare.docker.com
