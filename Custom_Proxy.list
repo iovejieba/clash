@@ -16,3 +16,5 @@ DOMAIN,acg.rip
 DOMAIN-SUFFIX,githubusercontent.com
 # CF DOCKER
 DOMAIN,production.cloudflare.docker.com
+# 动漫花园 PT
+DOMAIN,u2.dmhy.org
