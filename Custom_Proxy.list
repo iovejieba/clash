@@ -17,4 +17,5 @@ DOMAIN-SUFFIX,githubusercontent.com
 # CF DOCKER
 DOMAIN,production.cloudflare.docker.com
 # 动漫花园 PT
+DOMAIN,share.dmhy.org
 DOMAIN,u2.dmhy.org
