@@ -19,3 +19,6 @@ DOMAIN,production.cloudflare.docker.com
 # 动漫花园 PT
 DOMAIN,share.dmhy.org
 DOMAIN,u2.dmhy.org
+# emby 公益 临时禁直连
+DOMAIN-SUFFIX,cn2gias.uk
+
