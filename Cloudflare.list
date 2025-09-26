@@ -1,12 +1,11 @@
 # CloudFlare
 DOMAIN,integration.vless-bart.sbs
-DOMAIN-SUFFIX,vless-bart.sbs
-DOMAIN-KEYWORD,vless-bart
 DOMAIN,dash.cloudflare.com
 DOMAIN,platform.dash.cloudflare.com
 DOMAIN,challenges.cloudflare.com
-DOMAIN-SUFFIX,quick-edit-cny.pages.dev
 DOMAIN,quick-edit-cny.pages.dev
+DOMAIN-SUFFIX,quick-edit-cny.pages.dev
+DOMAIN-SUFFIX,vless-bart.sbs
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cf-ipfs.com
 DOMAIN-SUFFIX,cf-ns.com
@@ -54,6 +53,7 @@ DOMAIN-SUFFIX,workers.dev
 DOMAIN-SUFFIX,cloudflare-ech.com
 DOMAIN-SUFFIX,cloudflareinsights.com
 DOMAIN-KEYWORD,cloudflare
+DOMAIN-KEYWORD,vless-bart
 IP-CIDR,103.21.244.0/22,no-resolve
 IP-CIDR,103.22.200.0/22,no-resolve
 IP-CIDR,103.31.4.0/22,no-resolve
