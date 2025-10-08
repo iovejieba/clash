@@ -1,9 +1,5 @@
 # 强制代理补漏列表，来自个人收集
-
-# PT FSM
-DOMAIN-SUFFIX,fsm.name
-# PT ICC2022 策略调整暂只能非墙访问前端
-DOMAIN,www.icc2022.com
+# PT  策略调整暂只能非墙访问前端
 DOMAIN,www.torrentleech.org
 # jav missav
 DOMAIN-SUFFIX,missav.ai
