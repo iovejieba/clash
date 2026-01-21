@@ -102,5 +102,3 @@ PROCESS-NAME,com.firecore.infuse
 PROCESS-NAME,com.mac.utility.media.hub
 PROCESS-NAME,hills_desktop.exe
 PROCESS-NAME,cinetry.exe
-IP-CIDR,188.172.228.65/32
-IP-CIDR,138.68.236.33/32
