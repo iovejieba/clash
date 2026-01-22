@@ -32,3 +32,5 @@ DOMAIN-SUFFIX,s1s1s1.com
 DOMAIN-SUFFIX,moodyz.com
 DOMAIN-SUFFIX,honnaka.jp
 DOMAIN-SUFFIX,dasdas.jp
+IP-CIDR,125.6.189.7/32,no-resolve
+IP-CIDR,203.104.209.7/32,no-resolve
